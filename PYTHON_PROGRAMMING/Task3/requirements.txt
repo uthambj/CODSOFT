@@ -1,0 +1,3 @@
+# No external dependencies required.
+# This project uses only Python's standard library (json, os, string, secrets, random, datetime).
+# Recommended: Python 3.8 or higher.
