@@ -52,3 +52,5 @@ Task 'Buy groceries' added successfully.
 
 See `outputs/sample_run.txt` for a full example session.
 
+## Author
+Prashanth S N — CodSoft Virtual Internship (Python Programming), Sept 2026
