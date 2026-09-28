@@ -39,4 +39,4 @@ Result: 12.0 + 8.0 = 20.0
 ```
 
 ## Author
-Utham B J — CodSoft Virtual Internship (Python Programming), Sept 2026
+Prashanth S N — CodSoft Virtual Internship (Python Programming), Sept 2026
